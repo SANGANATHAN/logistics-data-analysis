@@ -1,0 +1,31 @@
+order_id,order_date,origin,destination,vehicle_type,distance_km,delivery_time_min,expected_time_min,fuel_consumed_l,on_time,transport_cost_inr
+1001,2026-07-01,Chennai,Chengalpattu,Van,52,78,95,88,1,620
+1002,2026-07-01,Chennai,Kanchipuram,Truck,72,112,120,126,1,980
+1003,2026-07-02,Chennai,Sriperumbudur,Van,41,64,75,69,1,510
+1004,2026-07-02,Chennai,Tiruvallur,Bike,38,58,60,54,1,360
+1005,2026-07-03,Chennai,Poonamallee,Van,29,49,55,61,1,420
+1006,2026-07-03,Chengalpattu,Mahabalipuram,Van,34,55,70,67,1,450
+1007,2026-07-04,Chennai,Tambaram,Bike,24,42,45,39,1,300
+1008,2026-07-04,Chennai,Red Hills,Van,33,51,65,72,1,400
+1009,2026-07-05,Chennai,Avadi,Van,36,59,70,76,1,470
+1010,2026-07-05,Chennai,Ambattur,Bike,22,38,45,41,1,290
+1011,2026-07-06,Chennai,Guduvanchery,Van,47,73,85,80,1,560
+1012,2026-07-06,Chennai,Maraimalai Nagar,Truck,61,94,105,118,1,900
+1013,2026-07-07,Chennai,Vandalur,Bike,27,46,50,48,1,330
+1014,2026-07-07,Chennai,Perungalathur,Van,31,52,60,57,1,390
+1015,2026-07-08,Chennai,Kelambakkam,Van,55,86,100,104,0,710
+1016,2026-07-08,Chennai,Sholinganallur,Bike,19,35,40,38,1,260
+1017,2026-07-09,Chennai,Guindy,Bike,14,31,35,33,1,220
+1018,2026-07-09,Chennai,Velachery,Bike,17,34,40,46,0,240
+1019,2026-07-10,Chennai,Porur,Van,26,45,55,52,1,350
+1020,2026-07-10,Chennai,Mogappair,Van,23,41,50,55,0,340
+1021,2026-07-11,Chennai,Adyar,Bike,16,33,40,36,1,230
+1022,2026-07-11,Chennai,Thoraipakkam,Bike,21,37,45,49,0,250
+1023,2026-07-12,Chennai,ECR,Van,48,76,90,84,1,600
+1024,2026-07-12,Chennai,Avadi,Truck,68,108,125,132,0,1050
+1025,2026-07-13,Chennai,Koyambedu,Van,18,36,45,43,1,280
+1026,2026-07-13,Chennai,Perambur,Bike,15,32,40,39,1,220
+1027,2026-07-14,Chennai,Mylapore,Bike,13,29,35,31,1,210
+1028,2026-07-14,Chennai,T Nagar,Bike,12,28,35,44,0,205
+1029,2026-07-15,Chennai,Chromepet,Van,28,48,55,58,0,370
+1030,2026-07-15,Chennai,Pallavaram,Van,25,44,50,47,1,350
